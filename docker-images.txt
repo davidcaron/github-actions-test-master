@@ -1,1 +1,1 @@
-caronda/github-actions-test:1.0.0
+caronda/github-actions-test:1.0
